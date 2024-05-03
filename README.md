@@ -16,3 +16,8 @@ Use 'ros2 launch rviz_marker launch_rviz_marker_fail.py' and 'ros2 launch rviz_m
 This is the output of the successful and failing launch files. 
 <img width="1822" alt="Bildschirmfoto 2024-05-03 um 11 37 41" src="https://github.com/johannesn/rviz_marker/assets/6796392/2a146d38-3810-4533-8175-04d04f4b44b4">
 <img width="1778" alt="Bildschirmfoto 2024-05-03 um 11 16 35" src="https://github.com/johannesn/rviz_marker/assets/6796392/5ef3e3f9-8f05-4850-8396-40433425b75f">
+
+This video illustrates the flickering of the MarkerArray:
+
+https://github.com/johannesn/rviz_marker/assets/6796392/b559728a-ff8a-4007-b414-fa4d186a34be
+
